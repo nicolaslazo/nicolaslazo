@@ -1,6 +1,6 @@
-## Hey! ✌️
+## Backend engineer, generalist, maker. 🌱
 
-I'm Nicolas Lazo, a backend engineer from Buenos Aires. I'm currently studying at the National Technological University.
+I'm Nicolas Lazo, I work as a backend engineer and consultant. I'm currently studying at the National Technological University.
 
 People born before the Wright brothers took flight lived to see the moon landing—just 66 years apart. Let's find out where computing will be 66 years from now 🚀
 
