@@ -1,4 +1,4 @@
-## Backend engineer, generalist, maker. 🌱
+## Backend engineer, generalist, maker 🌱
 
 I'm Nicolas Lazo, I work as a backend engineer and consultant. I'm currently studying at the National Technological University.
 
