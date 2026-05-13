@@ -25,10 +25,6 @@ I like working with the following technologies:
 [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
-And you can contact me here:
-
-> [![Email](https://img.shields.io/badge/Email-lazonicolasm@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lazonicolasm@gmail.com)
-
 
 <!--
 **nicolaslazo/nicolaslazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
